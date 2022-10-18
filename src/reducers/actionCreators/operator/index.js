@@ -1,0 +1,1 @@
+export { setOperator } from './setOperator';
