@@ -2,7 +2,7 @@
   "name": "calc-app",
   "version": "0.1.0",
   "license": "ISC",
-  "homepage": "http://Fritterus.github.io/Calculator-app",
+  "homepage": "http://Fritterus.github.io/",
   "dependencies": {
     "@craco/craco": "^6.4.5",
     "@testing-library/jest-dom": "^5.14.1",
